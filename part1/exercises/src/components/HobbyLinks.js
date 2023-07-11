@@ -3,7 +3,7 @@ export default function HobbyLinks(){
 
     return(
         <div>
-            <h3>{HobbyLinks}</h3>
+            <h3>{HobbyLinks}Things I love to do!</h3>
             <ol>
                 <li><a href ={hobbyLinks[0]}>Spotify for listening music</a></li>
                 <li><a href = {hobbyLinks[1]}>cookdtv for making good food</a></li>
@@ -11,4 +11,4 @@ export default function HobbyLinks(){
         </div>
     )
 
-}
+}   

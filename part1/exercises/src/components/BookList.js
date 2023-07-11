@@ -12,4 +12,4 @@ export default function BookList() {
          <img src={book3} alt="Anhilation of Caste by Dr.B.R.Ambedkar" />
       </div>      
    );
-}
+} 
