@@ -1,6 +1,16 @@
+import './styling.css';
+
 function ClickedButton() {
-  return;
+  function handleRemoveClick(){
+    alert("You are removing this pin from Board!");
+  }
+  return(
+    <button id = "clickedButton" onClick={handleRemoveClick}>
+      Saved
+    </button>
+  );
 }
+
 
 export default ClickedButton;
 
