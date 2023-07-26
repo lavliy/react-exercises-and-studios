@@ -1,0 +1,36 @@
+{
+    "Projects":[
+        {
+            "name": "Printed Feathers",
+            "source": "Etsy",
+            "photoUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.etsystatic.com%2F23598190%2Fr%2Fil%2F913c18%2F2369004696%2Fil_fullxfull.2369004696_9g1h.jpg&tbnid=_b8Ckq6lGwVLjM&vet=12ahUKEwitzIeS2auAAxX_ZjABHQO-DUkQMygKegUIARCjAw..i&imgrefurl=https%3A%2F%2Fwww.etsy.com%2Flisting%2F826779457%2Fprintable-feather-mandala-doodle-art-a5&docid=DCpafjtNimXmfM&w=2067&h=1447&q=mandala%20doodle%20art&ved=2ahUKEwitzIeS2auAAxX_ZjABHQO-DUkQMygKegUIARCjAw",
+            "alt": "feather-mandala-doodle-art"
+        },
+        {
+            "name": "Hanging LAmp",
+            "source": "Ebay",
+            "photoUrl": "https://img.freepik.com/premium-vector/vintage-mandala-decorative-lantern-islamic-ramadan-eid-lamp_591091-191.jpg?w=2000",
+            "alt": "Unique Lamp Mandala Art"
+        },
+        {
+            "name": "Long Gown",
+            "source": "Youtube",
+            "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe4vR8XBGwvHPOJ5SX4itFK5_UdpWzHuygaeokikAmVNl6WKhTPXgdsbW9VE8apYIveHA&usqp=CAU",
+            "alt": "Gown Mandala Art "
+        },
+        {
+            "name": "Yin Yang",
+            "source": "Behance",
+            "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgAjXe527lm5vJH0I8LQfWIZ2JZt7ynCwnOwNMau0wK66wCdWuWzht_UHne0tWadajXG0&usqp=CAU",
+            "alt": "Hand Drawn, Detailed Yin Yang"
+        },
+        {
+            "name": "Arima",
+            "source": "Freepik",
+            "photoUrl": "https://img.freepik.com/premium-vector/zentangle-lion-mandala-drawing-lion-mandala-doodle-art-designs_97378-950.jpg?w=2000",
+            "alt": "Zentangle lion mandala"
+        }
+
+
+    ]
+}
